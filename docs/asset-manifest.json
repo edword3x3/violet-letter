@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.49ff9b8c.css",
-    "main.js": "/static/js/main.51cd098d.js",
-    "static/media/tellsis.woff": "/static/media/tellsis.412a91fd9b85e4e6eae6.woff",
-    "static/media/tellsis.woff2": "/static/media/tellsis.f2075759ed495b37c1ac.woff2",
+    "main.css": "/static/css/main.672d72d1.css",
+    "main.js": "/static/js/main.a1c140d6.js",
+    "static/media/tellsis-Regular.woff": "/static/media/tellsis-Regular.3f5b3b78e9d951ca850b.woff",
+    "static/media/tellsis-Regular.woff2": "/static/media/tellsis-Regular.769bb660cf943d3d86c5.woff2",
     "index.html": "/index.html",
-    "main.49ff9b8c.css.map": "/static/css/main.49ff9b8c.css.map",
-    "main.51cd098d.js.map": "/static/js/main.51cd098d.js.map"
+    "main.672d72d1.css.map": "/static/css/main.672d72d1.css.map",
+    "main.a1c140d6.js.map": "/static/js/main.a1c140d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.49ff9b8c.css",
-    "static/js/main.51cd098d.js"
+    "static/css/main.672d72d1.css",
+    "static/js/main.a1c140d6.js"
   ]
 }
